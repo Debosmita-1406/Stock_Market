@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+input button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60px;
+    height: 100%;
+    z-index: 1;
+    cursor: pointer;
+}
+.card-1{
+    border-left: 7px solid #2f06f9;
+    border-radius: 10%;
+    border-top: 2px solid hsl(0, 0%, 23%);
+    border-bottom:2px solid hsl(0, 0%, 23%);
+    border-right: 2px solid hsl(0, 0%, 23%);
+    
+}
+.card-2{
+    border-left: 7px solid #22f906;
+    border-radius: 10%;
+    border-top: 2px solid hsl(0, 0%, 23%);
+    border-bottom:2px solid hsl(0, 0%, 23%);
+    border-right: 2px solid hsl(0, 0%, 23%);
+}
+.card-3{
+    border-left: 7px solid #06ccf9;
+    border-radius: 10%;
+    border-top: 2px solid hsl(0, 0%, 23%);
+    border-bottom:2px solid hsl(0, 0%, 23%);
+    border-right: 2px solid hsl(0, 0%, 23%);
+}
+.card-4{
+    border-left: 7px solid #d4f906;
+    border-radius: 10%;
+    border-top: 2px solid hsl(0, 0%, 23%);
+    border-bottom:2px solid hsl(0, 0%, 23%);
+    border-right: 2px solid hsl(0, 0%, 23%);
+}
+
